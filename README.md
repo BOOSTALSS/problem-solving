@@ -55,22 +55,22 @@
         <td align="center" width="130px">	
             <a href="https://github.com/happyBeagle"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/68745983?v=4"/></a>
             <br />
-            <a href="https://github.com/happyBeagle">gihop</a>
+            <a href="https://github.com/happyBeagle">happyBeagle</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/hunmin-hub"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74880677?v=4"/></a>
             <br />
-            <a href="https://github.com/hunmin-hub">iloveslowfood</a>
+            <a href="https://github.com/hunmin-hub">hunmin-hub</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/nureesong"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76163168?v=4"/></a>
             <br />
-            <a href="https://github.com/nureesong">kim1109123</a>
+            <a href="https://github.com/nureesong">nureesong</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/Lala-chick"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76460750?v=4"/></a>
             <br />
-            <a href="https://github.com/Lala-chick">cola314</a>
+            <a href="https://github.com/Lala-chick">Lala-chick</a>
         </td>
     </tr>
 </table>
